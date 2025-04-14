@@ -22,3 +22,4 @@ def line():
 
     d = ((Y2 - Y1)**2 + (X2 - X1)**2)**(1/2)
     print (f"\nLa distancia entre ellos es: {d}")
+
